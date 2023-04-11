@@ -1,2 +1,2 @@
 # Threadpool
-My my implementation Threadpool
+My implementation Threadpool
